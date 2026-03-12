@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Decisio Privacy Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.6;
+      color: #111;
+    }
+    h1, h2 {
+      color: #0b0f2f;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy for Decisio</h1>
+  <p>Last updated: March 11, 2026</p>
+
+  <p>Decisio values your privacy. This Privacy Policy explains what information we collect, how we use it, and your choices regarding your data.</p>
+
+  <h2>Information We Collect</h2>
+  <p>We may collect account information, app usage data, decision history, and technical information needed to operate the app.</p>
+
+  <h2>How We Use Information</h2>
+  <p>We use information to provide app features, improve performance, process subscriptions, and support users.</p>
+
+  <h2>Third-Party Services</h2>
+  <p>We may use third-party services such as analytics, subscription management, and AI providers to operate app features.</p>
+
+  <h2>Data Sharing</h2>
+  <p>We do not sell personal information. We only share data with service providers as needed to run the app.</p>
+
+  <h2>Your Choices</h2>
+  <p>You may request access to, correction of, or deletion of your data by contacting us.</p>
+
+  <h2>Contact</h2>
+  <p>If you have questions about this Privacy Policy, contact us at: your@email.com</p>
+</body>
+</html>
